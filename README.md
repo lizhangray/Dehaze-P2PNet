@@ -133,7 +133,7 @@ There are two parameters that must be provided:
 
 Please cite this paper in your publications if it is helpful for your tasks.
 
-```bash
+```tex
 @InProceedings{yuan2024crowd,
     author    = {Yuan, Weijun and Li, Zhan and Li, Xiaohan and Fang, Liangda and Zhang, Qinfeng and Qiu, Zhixiang},
     title     = {Crowd Counting and Localization in Haze and Rain},

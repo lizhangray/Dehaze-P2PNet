@@ -10,6 +10,8 @@ Please cite this paper in your publications if it is helpful for your tasks.
     year      = {2024}
 }
 
+```
+
 # Dehaze-P2PNet
 
 ## [ICME 2024] 《Crowd Counting and Localization in Haze and Rain》
@@ -141,4 +143,3 @@ There are two parameters that must be provided:
 
 `'--weight_path', help='load pretrained weight from checkpoint', such as 'weights/Hazy_JHU_best.pth'`
 
-```

@@ -15,29 +15,55 @@
 | Hazy-ShanghaiTechRGBD  | [[**Google**](https://drive.google.com/file/d/1rJD9IBuKA1Nhm-Ek3yDe-8V11CLKZnaG/view?usp=drive_link)] |
 | Rainy-ShanghaiTechRGBD | [[**Google**](https://drive.google.com/file/d/1uCeHtVO1_Mnc3KnOKzLd0JyOUhzzKKNo/view?usp=sharing)] |
 
-## Overview
+## Example
 
-**Comparison of crowd localization results on Hazy-JHU, DH-SHT, and Rainy-SHTRGBD.**
+<div align=center>
+<center class="half">
+    <img src="./assets/results/Rain_IMG_0045.jpg" width="240" height="135"/>
+    <img src="./assets/results/Rain_IMG_45_gt14_c15_IRM.jpg" width="240" height="135"/>
+    <img src="./assets/results/Rain_IMG_45_sr.png" width="240" height="135"/>
+</center>
 
-<img src="assets/01-results.png" alt="results1" style="zoom: 33%;" />
+| Dataset                | Predict | Ground-truth |
+| ---------------------- | ------- | ------------ |
+| Rainy-ShanghaiTechRGBD | 15      | 14           |
 
-**Comparison of locating performance (GAME).**
+<center class="half">
+    <img src="./assets/results/RGBD_IMG_3.jpg" width="240" height="135"/>
+    <img src="./assets/results/RGBD_IMG_3_gt85_c91.jpg" width="240" height="135"/>
+    <img src="./assets/results/RGBD_IMG_3_sr.png" width="240" height="135"/>
+</center>
 
-<img src="assets/02-GAME2.png" alt="game" style="zoom: 80%;" />
 
-## Quantitative Result
+| Dataset               | Predict | Ground-truth |
+| --------------------- | ------- | ------------ |
+| Hazy-ShanghaiTechRGBD | 91      | 85           |
 
-**Quantitative results on two challenging benchmark datasets.**
+<center class="half">
+    <img src="./assets/results/A_IMG_160.jpg" width="240" height="135"/>
+    <img src="./assets/results/A_IMG_160_gt121_c117.jpg" width="240" height="135"/>
+    <img src="./assets/results/A_IMG_160_sr.png" width="240" height="135"/>
+</center>
 
-<img src="assets/03-results.png" alt="results3" style="zoom: 80%;" />
 
-**Quantitative results on our dense-haze crowd counting dataset (DH-SHT).**
+| Dataset           | Predict | Ground-truth |
+| ----------------- | ------- | ------------ |
+| Hazy-ShanghaiTech | 117     | 121          |
 
-<img src="assets/04-results.png" alt="results4" style="zoom:80%;" />
+<center class="half">
+    <img src="./assets/results/JHU_IMG_0895.jpg" width="240" height="135"/>
+    <img src="./assets/results/JHU_IMG_895_gt941_c1200_IRM.jpg" width="240" height="135"/>
+    <img src="./assets/results/JHU_IMG_895_sr.png" width="240" height="135"/>
+</center>
 
-**Quantitative results on Rainy-SHTRGBD dataset.**
 
-<img src="assets/05-results.png" alt="results5" style="zoom:80%;" />
+| Dataset  | Predict | Ground-truth |
+| -------- | ------- | ------------ |
+| Hazy-JHU | 1200    | 945          |
+
+</div>
+
+
 
 ## Usage
 

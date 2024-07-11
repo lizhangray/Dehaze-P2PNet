@@ -21,22 +21,22 @@
   <tr>
     <td align="center"> <img src = "./assets/results/Rain_IMG_0045.jpg"> </td>
     <td align="center"> <img src = "./assets/results/Rain_IMG_45_gt14_c15_IRM.jpg"> </td>
-    <td align="center"> <img src = "./assets/results/Rain_IMG_45_sr.png"> </td>
+    <td align="center"> <img src = "./assets/results/Rain_IMG_45_sr.jpg"> </td>
   </tr>
   <tr>
     <td align="center"> <img src = "./assets/results/RGBD_IMG_3.jpg"> </td>
     <td align="center"> <img src = "./assets/results/RGBD_IMG_3_gt85_c91.jpg"> </td>
-    <td align="center"> <img src = "./assets/results/RGBD_IMG_3_sr.png"> </td>
+    <td align="center"> <img src = "./assets/results/RGBD_IMG_3_sr.jpg"> </td>
   </tr>
   <tr>
     <td align="center"> <img src = "./assets/results/A_IMG_160.jpg"> </td>
     <td align="center"> <img src = "./assets/results/A_IMG_160_gt121_c117.jpg"> </td>
-    <td align="center"> <img src = "./assets/results/A_IMG_160_sr.png"> </td>
+    <td align="center"> <img src = "./assets/results/A_IMG_160_sr.jpg"> </td>
   </tr>
   <tr>
     <td align="center"> <img src = "./assets/results/JHU_IMG_0895.jpg"> </td>
     <td align="center"> <img src = "./assets/results/JHU_IMG_895_gt941_c1200_IRM.jpg"> </td>
-    <td align="center"> <img src = "./assets/results/JHU_IMG_895_sr.png"> </td>
+    <td align="center"> <img src = "./assets/results/JHU_IMG_895_sr.jpg"> </td>
   </tr>
   <tr>
     <td align="center"><p><b>Input</b></p></td>

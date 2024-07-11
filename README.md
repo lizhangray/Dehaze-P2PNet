@@ -46,11 +46,11 @@
 </table>
 
 
-| Image name                          | Predict | Ground-truth |
+| Image Name                          | Predict | Ground-truth |
 | ----------------------------------- | ------- | ------------ |
 | Rainy-ShanghaiTechRGBD/IMG_0895.jpg | 15      | 14           |
 | Hazy-ShanghaiTechRGBD/IMG_3.jpg     | 91      | 85           |
-| Hazy-ShanghaiTech/IMG_160.jpg       | 117     | 121          |
+| Hazy-ShanghaiTech/PartA/IMG_160.jpg | 117     | 121          |
 | Hazy-JHU/IMG_0895.jpg               | 1200    | 945          |
 
 </div>

@@ -24,9 +24,9 @@
     <img src="./assets/results/Rain_IMG_45_sr.png" width="240" height="135"/>
 </center>
 
-| Dataset                | Predict | Ground-truth |
-| ---------------------- | ------- | ------------ |
-| Rainy-ShanghaiTechRGBD | 15      | 14           |
+| Dataset                             | Predict | Ground-truth |
+| ----------------------------------- | ------- | ------------ |
+| Rainy-ShanghaiTechRGBD/IMG_0895.jpg | 15      | 14           |
 
 <center class="half">
     <img src="./assets/results/RGBD_IMG_3.jpg" width="240" height="135"/>
@@ -35,9 +35,9 @@
 </center>
 
 
-| Dataset               | Predict | Ground-truth |
-| --------------------- | ------- | ------------ |
-| Hazy-ShanghaiTechRGBD | 91      | 85           |
+| Dataset                         | Predict | Ground-truth |
+| ------------------------------- | ------- | ------------ |
+| Hazy-ShanghaiTechRGBD/IMG_3.jpg | 91      | 85           |
 
 <center class="half">
     <img src="./assets/results/A_IMG_160.jpg" width="240" height="135"/>
@@ -46,9 +46,9 @@
 </center>
 
 
-| Dataset           | Predict | Ground-truth |
-| ----------------- | ------- | ------------ |
-| Hazy-ShanghaiTech | 117     | 121          |
+| Dataset                       | Predict | Ground-truth |
+| ----------------------------- | ------- | ------------ |
+| Hazy-ShanghaiTech/IMG_160.jpg | 117     | 121          |
 
 <center class="half">
     <img src="./assets/results/JHU_IMG_0895.jpg" width="240" height="135"/>
@@ -57,9 +57,9 @@
 </center>
 
 
-| Dataset  | Predict | Ground-truth |
-| -------- | ------- | ------------ |
-| Hazy-JHU | 1200    | 945          |
+| Dataset               | Predict | Ground-truth |
+| --------------------- | ------- | ------------ |
+| Hazy-JHU/IMG_0895.jpg | 1200    | 945          |
 
 </div>
 

@@ -63,7 +63,7 @@
 - **Hazy-ShanghaiTech PartA** → [DH_SHTA_best.pth](https://drive.google.com/file/d/1DrVEb2exzgO17ZbtoaJZctgTiqRaiuMo/view?usp=sharing)
 - **Hazy-ShanghaiTech PartB** → [DH_SHTB_best.pth](https://pan.quark.cn/s/fd9321d49925)
 - **Hazy-ShanghaiTechRGBD** → [Hazy_SHTRGBD_best.pth](https://drive.google.com/file/d/1jQv0Kj8aT_PGUi4LzWppiGPpXQtq15uG/view?usp=sharing)
-- **Rainy-ShanghaiTechRGBD** → [Rainy_SHTRGBD_best.pth](https://drive.google.com/file/d/1Fqr7RqSJk-fSUw9YMpCg2MZnsBhynFWJ/view?usp=sharing)
+- **Rainy-ShanghaiTechRGBD** → [Rainy_SHTRGBD_best.pth](https://pan.quark.cn/s/20d9bf26fa69)
 - [vgg16_bn-6c64b313.pth](https://download.pytorch.org/models/vgg16_bn-6c64b313.pth)
 
 #### Environment
